@@ -1,4 +1,4 @@
-###                                                                         Hola, I'm Parag !
+<h2 align='center'> Hola, I'm Parag !</h2>                                                               
 Nice to meet y'all
 - 🔭 I’m currently working on my problem solving skills and time management
 - 🌱 I’m currently learning Data structures and algorithms
