@@ -1,4 +1,4 @@
-### Hola folks !
+### Hola, I'm Parag !
 Nice to meet y'all
 - 🔭 I’m currently working on my problem solving skills and time management
 - 🌱 I’m currently learning Data structures and algorithms
