@@ -9,12 +9,12 @@ I'm a backend-focused software engineer from India 🇮🇳 who enjoys building 
 
 ## 👨‍💻 About Me
 
- 🔹 Backend Software Engineer with hands-on experience in **Java & Spring Boot**
- 🔹 Strong understanding of **REST APIs, SQL, and backend architecture**
- 🔹 Experience working on **production systems, debugging, and performance optimization**
- 🔹 Actively improving **Data Structures & Algorithms**
- 🔹 Interested in **scalable systems, microservices, and backend design**
- 🔹 Open to **Backend / Software Engineer opportunities**
+ - 🔹 Backend Software Engineer with hands-on experience in **Java & Spring Boot**
+ - 🔹 Strong understanding of **REST APIs, SQL, and backend architecture**
+ - 🔹 Experience working on **production systems, debugging, and performance optimization**
+ - 🔹 Actively improving **Data Structures & Algorithms**
+ - 🔹 Interested in **scalable systems, microservices, and backend design**
+ - 🔹 Open to **Backend / Software Engineer opportunities**
 
 ---
 
